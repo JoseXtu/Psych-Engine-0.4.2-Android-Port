@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "look's like you won ready for the suprise?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "SUPRISE!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BA!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Like my giant robot, Kid"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BOOOO!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heh heh"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Any last word's?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "be ska bep"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..Wait wait wha-"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ONE FINAL SONG?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmmm why not."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Although it will be you'r last"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BECAUSE YOU WILL BE SHOT DEAD WHEN IT'S OVER"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BO!"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tord assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tordbot shoot0000" x="0" y="0" width="1742" height="2134" pivotX="693.05" pivotY="1652.7"/>
+	<SubTexture name="tordbot shoot0001" x="0" y="0" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0002" x="1742" y="0" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0003" x="3484" y="0" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0004" x="5226" y="0" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0005" x="0" y="2134" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0006" x="1742" y="2134" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0007" x="3484" y="2134" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0008" x="5226" y="2134" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0009" x="0" y="4268" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0010" x="0" y="4268" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0011" x="1742" y="4268" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0012" x="1742" y="4268" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0013" x="3484" y="4268" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0014" x="5226" y="4268" width="1742" height="2134"/>
+	<SubTexture name="tordbot shoot0015" x="5226" y="4268" width="1742" height="2134"/>
+</TextureAtlas>

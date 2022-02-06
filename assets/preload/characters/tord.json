@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tord down"
+		},
+		{
+			"offsets": [
+				14,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tord left"
+		},
+		{
+			"offsets": [
+				-34,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tord right"
+		},
+		{
+			"offsets": [
+				6,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tord up"
+		},
+		{
+			"offsets": [
+				-13,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "tord laugh"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "tord angry idle"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singFUCK",
+			"indices": [],
+			"name": "tord angry start"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				1
+			],
+			"anim": "singPULLOUTMIC",
+			"fps": 24,
+			"name": "tord pulloutmic",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tord idle"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-default",
+			"loop": false,
+			"name": "tord idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tord",
+	"position": [
+		10,
+		80
+	],
+	"healthicon": "tord",
+	"flip_x": false,
+	"healthbar_colors": [
+		186,
+		39,
+		39
+	],
+	"camera_position": [
+		60,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

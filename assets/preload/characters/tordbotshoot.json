@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				598,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "tordbot shoot"
+		},
+		{
+			"offsets": [
+				597,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				14,
+				15
+			],
+			"name": "tordbot shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tordbot_bang",
+	"position": [
+		60,
+		-1335
+	],
+	"healthicon": "tordbot",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		21,
+		21
+	],
+	"camera_position": [
+		-720,
+		-744
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

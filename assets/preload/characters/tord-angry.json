@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tord left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tord right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tord up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tord angry idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tord down angry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "tord fuckthis"
+		},
+		{
+			"offsets": [
+				20,
+				-8
+			],
+			"indices": [
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "tord fuckthis"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tordangry",
+	"position": [
+		20,
+		80
+	],
+	"healthicon": "tordangry",
+	"flip_x": false,
+	"healthbar_colors": [
+		186,
+		39,
+		39
+	],
+	"camera_position": [
+		50,
+		-10
+	],
+	"sing_duration": 5.5,
+	"scale": 1
+}

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "tord line",
+	"confirm_anim": "tord line",
+	"position": [
+		88,
+		152
+	],
+	"scale": 0.55,
+	"image": "Menu_Tord"
+}

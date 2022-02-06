@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..Who are you?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bee ba ske bep"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can you.. Leave?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..Wait wait wha-"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A RAP BATTLE?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know what, kid."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't have anything better to do today."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "May the best man win."
+		}
+	]
+}

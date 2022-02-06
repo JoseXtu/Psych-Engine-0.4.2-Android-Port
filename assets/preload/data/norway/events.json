@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "eddhouse",
+		"player1": "bf",
+		"player2": "tord-cutscene",
+		"player3": null,
+		"events": [
+			[
+				4011.19402985075,
+				[
+					[
+						"Play Animation",
+						"singPULLOUTMIC",
+						"dad"
+					]
+				]
+			],
+			[
+				4776.11940298507,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tord"
+					]
+				]
+			],
+			[
+				40298.5074626866,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				49850.7462686568,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 201,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "norway"
+	}
+}

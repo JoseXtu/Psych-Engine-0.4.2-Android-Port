@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU LITTLE"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ba ba ba (you voice is horrible)"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU JUST CROSSED THE LINE "
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look how about a game."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So if i win i kill you"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And if you win, there is a suprise"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And i kill you"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Deal?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tordpissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Perfect."
+		}
+	]
+}

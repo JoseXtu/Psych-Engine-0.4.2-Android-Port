@@ -1,0 +1,5 @@
+Makes the notes fade out or fade in
+
+Value 1: Opponent's notes (1 = fade in 0 = fade out)
+
+Value 2: Boyfriend's (Player's) notes (1 = fade in 0 = fade out)

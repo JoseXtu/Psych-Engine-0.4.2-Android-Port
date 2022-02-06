@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"Norway",
+			"tord",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Norski",
+			"tord",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Target",
+			"tordangry",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"The end",
+			"tordbot",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"tord",
+		"bf",
+		"gf"
+	],
+	"storyName": "tord",
+	"weekName": "Week tord",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week6",
+	"startUnlocked": true
+}

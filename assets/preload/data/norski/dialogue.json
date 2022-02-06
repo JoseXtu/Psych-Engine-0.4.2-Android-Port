@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..Grrrh."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bo ba"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wha-"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ANOTHER RAP BATTLE?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bo ba be bo bes be ba peb bas be esk bo be ba bo ba be bre b ba bo be ba be bo ba be be be bea b ab ba babb e (yes)"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmmmmmm."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Only Because i want to humiliate you infront of you'r girlfriend"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "And Because you are getting on my Nerves"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beb"
+		}
+	]
+}

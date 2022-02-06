@@ -1,63 +1,37 @@
 {
+	"dialogue_pos": "right",
 	"position": [
 		0,
 		50
 	],
-	"dialogue_pos": "right",
 	"scale": 1.25,
-	"image": "BF_Dialogue",
 	"animations": [
 		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-72
+			],
 			"idle_offsets": [
 				-1,
-				-11
+				-72
 			],
-			"loop_offsets": [
-				0,
-				0
-			],
-			"anim": "talk",
-			"idle_name": "BF0",
-			"loop_name": "BF LOOP"
+			"loop_name": "normal",
+			"idle_name": "normal"
 		},
 		{
-			"idle_offsets": [
-				4,
-				-8
-			],
-			"anim": "excited",
 			"loop_offsets": [
-				5,
-				0
-			],
-			"idle_name": "BF EXCITED0",
-			"loop_name": "BF EXCITED LOOP"
-		},
-		{
-			"idle_offsets": [
-				0,
-				0
-			],
-			"anim": "pissed",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "BF PISSED0",
-			"loop_name": "BF PISSED LOOP"
-		},
-		{
-			"idle_offsets": [
-				-6,
-				-11
+				-1,
+				-72
 			],
 			"anim": "shocked",
-			"loop_offsets": [
-				-4,
-				0
+			"idle_offsets": [
+				-1,
+				-72
 			],
-			"idle_name": "BF SHOCK0",
-			"loop_name": "BF SHOCK LOOP"
+			"loop_name": "scared",
+			"idle_name": "scared"
 		}
-	]
+	],
+	"image": "bfportrait"
 }

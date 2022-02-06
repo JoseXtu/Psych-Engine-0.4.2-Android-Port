@@ -1,0 +1,50 @@
+{
+	"position": [
+		190,
+		94
+	],
+	"dialogue_pos": "left",
+	"scale": 1.45,
+	"image": "tord",
+	"animations": [
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_offsets": [
+				4,
+				-8
+			],
+			"anim": "talk",
+			"idle_name": "normal",
+			"loop_name": "normal"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				4,
+				-8
+			],
+			"idle_name": "laugh",
+			"loop_name": "laugh"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				4,
+				-8
+			],
+			"idle_name": "angry",
+			"loop_name": "angry"
+		}
+	]
+}

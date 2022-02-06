@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="torddialoguepissed.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crazy0000" x="0" y="0" width="266" height="450" pivotX="30.4" pivotY="-33.8"/>
+	<SubTexture name="angry0000" x="266" y="0" width="266" height="450"/>
+</TextureAtlas>
